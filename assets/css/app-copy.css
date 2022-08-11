@@ -1,0 +1,185 @@
+
+ .top-bar{
+    background-color: white;
+    border-radius: 0;
+    color: black;
+    padding: 10px;
+ 
+    
+}
+
+
+
+body{
+    background: none;
+}
+
+h1, h2, h3, h4 {
+    color: black;
+}
+
+.menu a{
+    border-radius: 20px;
+}
+
+
+
+.button {
+ 
+    background-color:#fafbfc;
+    color: black;
+    border-radius: 20px;
+    
+    margin-left: 7px;
+   
+}
+
+.button:hover {
+    background-color: #1779ba;
+}
+
+.collection-list-items-button {
+    box-shadow: 10px 10px 5px gray;
+}
+
+
+
+.top-bar input {
+    max-width: 350px;
+    margin-right: 1rem;
+    box-shadow: none;
+}
+
+.menu li a:hover {
+    background-color: #1779ba;
+    color: white;
+}
+
+.orbit-bullets button.is-active {
+    background-color: #1779ba;
+}
+
+
+.collection-list-items-button {
+   
+    background-color:rgba(220, 219, 219, 0.769);
+    box-shadow: 1px 1px 1px 1px#828080;
+    margin: 20px;
+}
+
+
+.columns {
+    white-space:nowrap;
+    overflow-x:scroll;
+    
+    
+}
+
+.item {
+    display:inline-block;
+    width:250px;
+    height:250px;
+    text-align:center;
+    line-height:1px;
+    color: black;
+    font-size: smaller;
+    margin-right: 0px;
+    margin: 0px;
+    padding: 3px;
+    
+
+}
+.items {
+    display:inline-block;
+    width:170px;
+    height:80px;
+    text-align:center;
+    line-height:20px;
+    color: black;
+}
+
+
+li {
+    list-style: none;
+}
+
+
+
+footer{
+    box-shadow: 3px 3px 3px 7px lightgrey;
+    padding: 11px;
+}
+.footer{
+    background-color: rgba(223, 220, 220, 0.243);
+    border-radius: 15px;
+}
+
+
+.vertical {
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    font-size: xx-large;
+}
+
+.color {
+    color: black;
+}
+
+a:hover {
+    color: #1779ba;
+}
+
+
+.card {
+    border: none;
+    overflow: visible;
+    overflow-x: visible;
+    overflow-y: visible;
+   
+}
+
+a img  {
+    box-shadow: 10px 10px 5px gray;
+}
+
+.card-divider {
+    background: rgba(255, 254, 254, 0.736);
+}
+
+
+
+
+.fa-star:before, .fa-eye:before, .fa-heart:before
+{
+    color: rgb(11, 11, 11);
+} 
+
+
+
+.collection-list-items-button {
+    border-right: none;
+    border-radius: 0px;
+    
+ }
+
+ .collection-list-items-button:hover {
+    background-color: #fafbfc;
+    
+ }
+
+     
+    .collection-list-items-buttonsgroup {
+       
+       border-radius: 0px;
+        
+       
+   }
+
+   .collection-list-items-buttonsgroup:hover {
+       
+    border-radius: 0px;
+    background-color: white;
+     
+    
+}
+

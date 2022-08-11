@@ -1,0 +1,139 @@
+.top-bar {
+  background-color: white;
+  border-radius: 0;
+  color: black;
+  padding: 10px;
+}
+
+.top-bar .top-bar input {
+  max-width: 350px;
+  margin-right: 1rem;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+body {
+  background: none;
+}
+
+h1, h2, h3, h4 {
+  color: black;
+}
+
+.menu a {
+  border-radius: 20px;
+}
+
+.button {
+  background-color: #fafbfc;
+  color: black;
+  border-radius: 20px;
+  margin-left: 7px;
+}
+
+.button .button:hover {
+  background-color: #326dee;
+}
+
+.collection-list-items-button {
+  -webkit-box-shadow: 10px 10px 5px gray;
+          box-shadow: 10px 10px 5px gray;
+  background-color: rgba(220, 219, 219, 0.769);
+  -webkit-box-shadow: 1px 1px 1px 1px #828080;
+          box-shadow: 1px 1px 1px 1px #828080;
+  margin: 20px;
+  border-right: none;
+  border-radius: 0px;
+}
+
+.collection-list-items-button .collection-list-items-button:hover {
+  background-color: #fafbfc;
+}
+
+.menu li a:hover {
+  background-color: #326dee;
+  color: white;
+}
+
+.orbit-bullets button.is-active {
+  background-color: #326dee;
+}
+
+.columns {
+  white-space: nowrap;
+  overflow-x: scroll;
+}
+
+.item {
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  line-height: 1px;
+  color: black;
+  font-size: smaller;
+  margin-right: 0px;
+  margin: 0px;
+  padding: 3px;
+}
+
+.items {
+  display: inline-block;
+  width: 170px;
+  height: 80px;
+  text-align: center;
+  line-height: 20px;
+  color: black;
+}
+
+li {
+  list-style: none;
+}
+
+footer {
+  -webkit-box-shadow: 3px 3px 3px 7px lightgrey;
+          box-shadow: 3px 3px 3px 7px lightgrey;
+  padding: 11px;
+}
+
+footer .footer {
+  background-color: rgba(223, 220, 220, 0.243);
+  border-radius: 15px;
+}
+
+.vertical {
+  -webkit-writing-mode: vertical-rl;
+      -ms-writing-mode: tb-rl;
+          writing-mode: vertical-rl;
+  text-orientation: mixed;
+  font-size: xx-large;
+}
+
+.color {
+  color: black;
+}
+
+a:hover {
+  color: #326dee;
+}
+
+.card {
+  border: none;
+  overflow: visible;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+.card a img {
+  -webkit-box-shadow: 10px 10px 5px gray;
+          box-shadow: 10px 10px 5px gray;
+}
+
+.card .card-divider {
+  background: rgba(255, 254, 254, 0.736);
+}
+
+.fa-star:before, .fa-eye:before, .fa-heart:before {
+  color: #0b0b0b;
+}
+/*# sourceMappingURL=sara.css.map */
