@@ -1,0 +1,24 @@
+{
+  "name": "library-project-copy",
+  "version": "1.0.0",
+  "description": "**Please open all issues with this template on the main [Foundation for Sites](https://github.com/zurb/foundation-sites/issues) repo.**",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samia-akand/gardencentre.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samia-akand/gardencentre/issues"
+  },
+  "homepage": "https://github.com/samia-akand/gardencentre#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.52.0"
+  }
+}
